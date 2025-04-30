@@ -6,4 +6,4 @@ Throughout my academic and professional journey, I’ve worked extensively with 
 
 In my free time, I enjoy exploring new tools in data visualization, automating workflows, and expanding my knowledge in cloud-based analytics and machine learning. Whether working independently or in a collaborative setting, I’m driven by curiosity, precision, and a strong commitment to delivering impactful insights through data.
 
-My Resume in Patrick Cipriano Data Analyst.pdf
+My Resume in <https://github.com/patrickcprn/Data-Analysis-Portfolio/main/Patrick Cipriano Data Analyst.pdf>
